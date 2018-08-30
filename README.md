@@ -4,7 +4,7 @@ This repo is dedicated to Microsoft Azure Databricks sample codes.
 
 # The power of Azure Databricks
 
-I started in the Big Data World some years ago using pure Apache Software. In the last years I really enjoyed to work with HDFS, MapReduce I and II, Storm, Pig, Hive, Cloudera Impala, Spark, etc. 
+I started in the Big Data World some years ago using pure Apache Software, then Hortonworks and Cloudera. In the last years I really enjoyed to work with HDFS, MapReduce I and II, Storm, Pig, Hive, Cloudera Impala, Spark, etc. 
 
 Since I joined the Microsoft world in April 2018, I started looking with my open source eyes to Microsoft Azure offers to deliver Big Data Science projects and every day I like more and more the Azure Databricks offer. 
 
