@@ -8,7 +8,7 @@ I started in the Big Data World some years ago using pure Apache Software, then 
 
 Since I joined the Microsoft world in April 2018, I started looking with my open source eyes to Microsoft Azure offers to deliver Big Data Science projects and every day I like more and more the Azure Databricks offer. 
 
-I am very happy to see Microsoft moving each day more to Azure Databricks World (Apache Spark, Python, R, Scala and all open source technologies). The combination of Microsoft and Databricks is incredible. Great product and support from Microsoft and Databricks.
+I am very happy to see Microsoft moving each day more and more to Azure Databricks World (Apache Spark, Python, R, Scala and all open source technologies). The combination of Microsoft and Databricks is incredible. Great product and support from Microsoft and Databricks.
 
 Basically with Azure Databricks you have into one single product the power to run big data jobs, implement machine learning (Python or R) using a notebook.
 
