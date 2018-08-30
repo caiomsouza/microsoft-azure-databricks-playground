@@ -17,5 +17,5 @@ You can run Azure Databricks Notebooks direct as a Job in Azure Databricks or sc
 # What is Azure Databricks
 Azure Databricks is an Apache Spark-based analytics platform optimized for the Microsoft Azure cloud services platform. Designed with the founders of Apache Spark, Databricks is integrated with Azure to provide one-click setup, streamlined workflows, and an interactive workspace that enables collaboration between data scientists, data engineers, and business analysts.
 
-More:
+More: <BR>
 https://github.com/MicrosoftDocs/azure-docs/blob/master/articles/azure-databricks/what-is-azure-databricks.md
