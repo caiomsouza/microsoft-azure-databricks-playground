@@ -2,6 +2,9 @@
 
 This repo is dedicated to Microsoft Azure Databricks sample codes.
 
+# Sample Code from Microsoft
+https://notebooks.azure.com/caiomsouza/libraries/Azure-MachineLearningNotebooks/tree/databricks
+
 # The power of Azure Databricks
 
 I started in the Big Data World some years ago using pure Apache Software, then Hortonworks and Cloudera. In the last years I really enjoyed to work with HDFS, MapReduce I and II, Storm, Pig, Hive, Cloudera Impala, Spark, etc. 
