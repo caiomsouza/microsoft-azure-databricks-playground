@@ -1,10 +1,4 @@
-<iframe width="560" height="315" src="https://www.youtube.com/embed/N-01aw9WPq4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+# Azure Databricks Video
 
-
-[![Audi R8](http://img.youtube.com/vi/KOxbO0EI4MA/0.jpg)](https://www.youtube.com/watch?v=KOxbO0EI4MA "Audi R8")
-
-
-https://www.youtube.com/embed/N-01aw9WPq4
-
-
+Start Azure Databricks Cluster
 [![Azure Databricks](https://img.youtube.com/vi/N-01aw9WPq4/0.jpg)](https://www.youtube.com/embed/N-01aw9WPq4 "Azure Databricks")
