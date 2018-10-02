@@ -67,7 +67,7 @@ will run the Pi example locally.
 You can set the MASTER environment variable when running examples to submit
 
 ## Run Pi example using Spark Submit
-'''
+```
 ./bin/spark-submit /usr/local/spark/examples/src/main/python/pi.py
-'''
+```
 
