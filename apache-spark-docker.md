@@ -22,3 +22,15 @@ spark-submit \
 --executor-cores 1 \
 $SPARK_HOME/lib/spark-examples-1.6.0-hadoop2.6.0.jar
 ```
+
+SPARK_HOME
+```
+bash-4.1# echo $SPARK_HOME
+/usr/local/spark
+bash-4.1# cd /usr/local/spark
+bash-4.1# pwd
+/usr/local/spark
+bash-4.1# ls
+CHANGES.txt  LICENSE  NOTICE  R  README.md  RELEASE  bin  conf  data  ec2  examples  lib  licenses  python  sbin  yarn-remote-client
+bash-4.1#
+```
