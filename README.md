@@ -25,12 +25,12 @@ https://github.com/MicrosoftDocs/azure-docs/blob/master/articles/azure-databrick
 
 # Papers
 
-Spark: Cluster Computing with Working Sets
-http://static.usenix.org/legacy/events/hotcloud10/tech/full_papers/Zaharia.pdf
+Spark: Cluster Computing with Working Sets <BR>
+http://static.usenix.org/legacy/events/hotcloud10/tech/full_papers/Zaharia.pdf <BR>
 
-Improving MapReduce Performance in Heterogeneous Environments
-http://static.usenix.org/event/osdi08/tech/full_papers/zaharia/zaharia.pdf
+Improving MapReduce Performance in Heterogeneous Environments <BR> 
+http://static.usenix.org/event/osdi08/tech/full_papers/zaharia/zaharia.pdf <BR>
 
-MLlib: Machine Learning in Apache Spark
-http://www.jmlr.org/papers/volume17/15-237/15-237.pdf
+MLlib: Machine Learning in Apache Spark <BR>
+http://www.jmlr.org/papers/volume17/15-237/15-237.pdf <BR>
 
