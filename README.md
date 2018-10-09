@@ -25,6 +25,11 @@ https://github.com/MicrosoftDocs/azure-docs/blob/master/articles/azure-databrick
 
 Introduction to Azure Databricks <BR>
 https://www.slideshare.net/jamserra/introduction-to-azure-databricks-83448539 <BR>
+  
+Benchmarking Big Data SQL Platforms in the Cloud <BR>
+TPC-DS benchmarks demonstrate Databricks Runtime 3.0’s superior performance  <BR>
+https://databricks.com/blog/2017/07/12/benchmarking-big-data-sql-platforms-in-the-cloud.html  <BR>
+
 
 # Papers
 
