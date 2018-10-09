@@ -23,6 +23,9 @@ Azure Databricks is an Apache Spark-based analytics platform optimized for the M
 More: <BR>
 https://github.com/MicrosoftDocs/azure-docs/blob/master/articles/azure-databricks/what-is-azure-databricks.md
 
+Introduction to Azure Databricks <BR>
+https://www.slideshare.net/jamserra/introduction-to-azure-databricks-83448539 <BR>
+
 # Papers
 
 Spark: Cluster Computing with Working Sets <BR>
@@ -34,5 +37,4 @@ http://static.usenix.org/event/osdi08/tech/full_papers/zaharia/zaharia.pdf <BR>
 MLlib: Machine Learning in Apache Spark <BR>
 http://www.jmlr.org/papers/volume17/15-237/15-237.pdf <BR>
 
-Introduction to Azure Databricks <BR>
-https://www.slideshare.net/jamserra/introduction-to-azure-databricks-83448539 <BR>
+
