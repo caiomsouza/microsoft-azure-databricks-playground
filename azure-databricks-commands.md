@@ -30,6 +30,11 @@ Show tables in Spark
 spark.sql('show tables').show()
 ```
 
+Create a DB in Spark
+```
+spark.sql('create database londonintel')
+```
+
 
 Spark Code - Read a JSON File / Display / Write to JSON
 ```
