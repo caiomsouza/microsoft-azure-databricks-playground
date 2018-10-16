@@ -98,3 +98,32 @@ df.show()
 df.write.json("/example/data/people_04/10/2018.json")
 ```
 
+# Connect Azure Data Lake with Azure Databricks 
+
+
+# Create a Spark Dataframe based on CSV
+
+```
+sparkDF = spark.read.format('csv').options(header='true', inferSchema='true').load('dbfs:/mnt/adlsdemocaio2/azuredatabricks/voa-average-rent-borough.csv')
+```
+
+Show Dataframe
+```
+sparkDF.show()
+```
+
+Create a table based on Azure Data Lake Store
+```
+spark.sql("CREATE TABLE rent USING CSV LOCATION 'dbfs:/mnt/adlsdemocaio2/azuredatabricks/voa-average-rent-borough.csv'")
+```
+
+Select using Spark SQL
+```
+spark.sql("select * from rent").show()
+```
+
+
+
+
+
+
