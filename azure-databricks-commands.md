@@ -3,16 +3,10 @@
 Some commands:
 
 # Linux Commands in Spark 
-Run Shell commands (HD Insight/Spark)
+Run Shell commands
 ```
 %sh
-!pwd
-```
-
-Run Shell commands (Azure Databricks)
-```
-%sh
-pwd
+! pwd
 ```
 
 See files/folders commands (Azure Databricks)
