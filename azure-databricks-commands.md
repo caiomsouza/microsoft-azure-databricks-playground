@@ -33,7 +33,7 @@ Tail a file
 ! tail ml-latest/tags.csv
 ```
 
-# Apark SQL API 
+# Spark SQL API 
 
 Show databases in Spark
 ```
