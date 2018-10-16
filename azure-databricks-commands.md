@@ -38,6 +38,11 @@ Create a DB in Spark
 spark.sql('create database londonintel')
 ```
 
+Use DB
+```
+spark.sql('use londonintel')
+```
+
 
 Spark Code - Read a JSON File / Display / Write to JSON
 ```
