@@ -3,6 +3,9 @@
 Azure Databricks: A Brief Introduction <BR>
 https://www.youtube.com/watch?v=cxyUy1bZ9mk <BR>
 
+Intro to Machine Learning for Developers on Azure Databricks
+https://databricks.com/intro-to-machine-learning-for-developers-on-azure-databricks  
+
 This repo is dedicated to Microsoft Azure Databricks sample codes.
 
 # Sample Code from Microsoft
