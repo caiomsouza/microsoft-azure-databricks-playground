@@ -42,4 +42,5 @@ http://static.usenix.org/event/osdi08/tech/full_papers/zaharia/zaharia.pdf <BR>
 MLlib: Machine Learning in Apache Spark <BR>
 http://www.jmlr.org/papers/volume17/15-237/15-237.pdf <BR>
 
-
+# Spark AI Summit 2018 talks
+https://databricks.com/sparkaisummit/europe/spark-summit-2018-keynotes
