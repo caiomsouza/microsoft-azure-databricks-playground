@@ -50,3 +50,7 @@ http://www.jmlr.org/papers/volume17/15-237/15-237.pdf <BR>
 
 # Spark AI Summit 2018 talks
 https://databricks.com/sparkaisummit/europe/spark-summit-2018-keynotes
+
+# Sample Codes (External)
+https://github.com/hipic/biz_data_LA <BR>
+https://docs.azuredatabricks.net/spark/latest/training/index.html <BR>
