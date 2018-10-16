@@ -25,6 +25,10 @@ Show databases in Spark
 spark.sql('show databases').show()
 ```
 
+```
+spark.sql('show tables').show()
+```
+
 
 Spark Code - Read a JSON File / Display / Write to JSON
 ```
