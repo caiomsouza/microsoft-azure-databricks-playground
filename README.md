@@ -1,5 +1,8 @@
 # Microsoft Azure Databricks Playground
 
+Azure Databricks: A Brief Introduction <BR>
+https://www.youtube.com/watch?v=cxyUy1bZ9mk <BR>
+
 This repo is dedicated to Microsoft Azure Databricks sample codes.
 
 # Sample Code from Microsoft
