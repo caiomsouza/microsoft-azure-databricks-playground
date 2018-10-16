@@ -75,6 +75,10 @@ Describe a table
 spark.sql("describe formatted ratings").show(truncate = False)
 ```
 
+Select a table
+```
+spark.sql("select * from movies").show()
+```
 
 Spark Code - Read a JSON File / Display / Write to JSON
 ```
