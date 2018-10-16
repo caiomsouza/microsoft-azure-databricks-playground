@@ -106,7 +106,7 @@ https://hadoop.apache.org/docs/r2.8.0/hadoop-azure-datalake/index.html <BR>
          
 Tips:
 * Application ID = Client ID
-* Credential = 
+* Credential = Service principal Key
 * dfs.adls.oauth2.refresh.url = Go to Azure Active Directory -> App registrations -> Endpoints -> OAUTH 2.0 TOKEN ENDPOINT
 
 
