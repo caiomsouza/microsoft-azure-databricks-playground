@@ -2,6 +2,25 @@
 
 Some commands:
 
+Run Shell commands (HD Insight/Spark)
+```
+%sh
+!pwd
+```
+
+Run Shell commands (Azure Databricks)
+```
+%sh
+pwd
+```
+
+See files/folders commands (Azure Databricks)
+```
+%%sh
+ls -lh
+```
+
+
 Spark Code - Read a JSON File / Display / Write to JSON
 ```
 from pyspark.sql import SQLContext
