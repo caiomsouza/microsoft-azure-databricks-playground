@@ -2,6 +2,7 @@
 
 Some commands:
 
+# Linux Commands in Spark 
 Run Shell commands (HD Insight/Spark)
 ```
 %sh
@@ -19,6 +20,14 @@ See files/folders commands (Azure Databricks)
 %%sh
 ls -lh
 ```
+
+Download a file 
+```
+%sh
+! wget http://files.grouplens.org/datasets/movielens/ml-latest.zip
+```
+
+# Apark SQL API 
 
 Show databases in Spark
 ```
