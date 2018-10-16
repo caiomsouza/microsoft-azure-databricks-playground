@@ -21,6 +21,18 @@ Download a file
 ! wget http://files.grouplens.org/datasets/movielens/ml-latest.zip
 ```
 
+Unzip a file
+```
+%sh
+! unzip ml-latest.zip
+```
+
+Tail a file
+```
+%sh
+! tail ml-latest/tags.csv
+```
+
 # Apark SQL API 
 
 Show databases in Spark
@@ -41,6 +53,21 @@ spark.sql('create database londonintel')
 Use DB
 ```
 spark.sql('use londonintel')
+```
+
+```
+spark.sql('create table movies \
+         (movieId int,title string,genres string) \
+         row format delimited fields terminated by ","\
+         stored as textfile')                                              # in textfile format
+
+spark.sql("create table ratings\
+           (userId int,movieId int,rating float,timestamp string)\
+           stored as ORC" )  
+
+spark.sql("create table genres_by_count\
+           ( genres string,count int)\
+           stored as AVRO" ) 
 ```
 
 
