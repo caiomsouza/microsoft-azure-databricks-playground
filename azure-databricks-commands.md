@@ -70,6 +70,11 @@ spark.sql("create table genres_by_count\
            stored as AVRO" ) 
 ```
 
+Describe a table
+```
+spark.sql("describe formatted ratings").show(truncate = False)
+```
+
 
 Spark Code - Read a JSON File / Display / Write to JSON
 ```
