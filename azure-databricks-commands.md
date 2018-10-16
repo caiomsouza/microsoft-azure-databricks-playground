@@ -25,6 +25,7 @@ Show databases in Spark
 spark.sql('show databases').show()
 ```
 
+Show tables in Spark
 ```
 spark.sql('show tables').show()
 ```
