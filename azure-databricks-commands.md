@@ -20,6 +20,11 @@ See files/folders commands (Azure Databricks)
 ls -lh
 ```
 
+Show databases in Spark
+```
+spark.sql('show databases').show()
+```
+
 
 Spark Code - Read a JSON File / Display / Write to JSON
 ```
