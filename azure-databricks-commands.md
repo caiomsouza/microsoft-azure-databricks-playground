@@ -98,7 +98,49 @@ df.show()
 df.write.json("/example/data/people_04/10/2018.json")
 ```
 
-# Connect Azure Data Lake with Azure Databricks 
+### Connect Azure Data Lake with Azure Databricks 
+
+Read first: <BR>
+https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-create-service-principal-portal <BR>
+https://hadoop.apache.org/docs/r2.8.0/hadoop-azure-datalake/index.html <BR>
+         
+Tips:
+* Application ID = Client ID
+* Credential = 
+* dfs.adls.oauth2.refresh.url = Go to Azure Active Directory -> App registrations -> Endpoints -> OAUTH 2.0 TOKEN ENDPOINT
+
+
+There are two options to read and write Azure Data Lake data from Azure Databricks:
+
+* DBFS mount points
+* Spark configs
+
+Using DBFS mount points
+```
+val configs = Map(
+  "dfs.adls.oauth2.access.token.provider.type" -> "ClientCredential",
+  "dfs.adls.oauth2.client.id" -> "b0c9a068-e32e-4636-b50d-7f2d667a00bc",
+  "dfs.adls.oauth2.credential" -> "rj+IAKT7TcZSdoVhLfi2R0QBJvJqeOtLd3++DuwNdUk=",
+  "dfs.adls.oauth2.refresh.url" -> "https://login.microsoftonline.com/16f460a0-7ffc-453a-9e41-71cc13e29e52/oauth2/token")
+
+dbutils.fs.mount(
+  source = "adl://adlsdemocaio.azuredatalakestore.net/",
+  mountPoint = "/mnt/adlsdemocaio2",
+  extraConfigs = configs)
+```
+
+Using DBFS mount points
+```
+spark.conf.set("dfs.adls.oauth2.access.token.provider.type", "ClientCredential")
+spark.conf.set("dfs.adls.oauth2.client.id", "b0c9a068-e32e-4636-b50d-7f2d667a00bc")
+spark.conf.set("dfs.adls.oauth2.credential", "rj+IAKT7TcZSdoVhLfi2R0QBJvJqeOtLd3++DuwNdUk=")
+spark.conf.set("dfs.adls.oauth2.refresh.url", "https://login.microsoftonline.com/16f460a0-7ffc-453a-9e41-71cc13e29e52/oauth2/token")
+```
+
+List files
+```
+%fs ls /mnt/adlsdemocaio2/
+```
 
 
 # Create a Spark Dataframe based on CSV
