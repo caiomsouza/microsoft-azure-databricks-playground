@@ -80,6 +80,11 @@ Select a table
 spark.sql("select * from movies").show()
 ```
 
+Drop a table
+```
+spark.sql("DROP TABLE IF EXISTS movies")
+```
+
 Spark Code - Read a JSON File / Display / Write to JSON
 ```
 from pyspark.sql import SQLContext
