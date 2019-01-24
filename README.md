@@ -15,6 +15,9 @@ https://notebooks.azure.com/caiomsouza/libraries/Azure-MachineLearningNotebooks/
 | Article Name |
 | ------------- |
 | [Creating a Spark Temp Table using Spark SQL](https://medium.com/@caiomsouza/creating-a-spark-table-using-spark-sql-9f045ec19ea2) | 
+| [How to connect Azure Databricks with Azure Blob Storage](https://medium.com/@caiomsouza/how-to-connect-azure-databricks-with-azure-blob-storage-1b3307620524) | 
+| [Attach Event Hub Spark libraries to Azure Databricks (Spark) cluster](https://medium.com/@caiomsouza/attach-event-hub-spark-libraries-to-azure-databricks-spark-cluster-5b0e08325611) | 
+| [Processing Event Hubs Capture files (AVRO Format) using Spark (Azure Databricks), save to Parquet or CSV format](https://medium.com/@caiomsouza/processing-event-hubs-capture-files-avro-format-using-spark-azure-databricks-save-to-parquet-95259001d85f) | 
 
 
 
