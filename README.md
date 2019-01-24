@@ -12,7 +12,7 @@ This repo is dedicated to Microsoft Azure Databricks sample codes.
 https://notebooks.azure.com/caiomsouza/libraries/Azure-MachineLearningNotebooks/tree/databricks
 
 # Databricks Articles
-| Article Name |
+| Article Name and Link |
 | ------------- |
 | [How to start an Azure Databricks Cluster](https://medium.com/@caiomsouza/start-an-azure-databricks-cluster-bc69f2ff7661) | 
 | [How to connect Azure Data Lake Store with Azure Databricks](https://medium.com/@caiomsouza/connect-azure-data-lake-store-with-azure-databricks-52f5fe73a29d) | 
@@ -20,8 +20,7 @@ https://notebooks.azure.com/caiomsouza/libraries/Azure-MachineLearningNotebooks/
 | [Creating a Spark Temp Table using Spark SQL](https://medium.com/@caiomsouza/creating-a-spark-table-using-spark-sql-9f045ec19ea2) | 
 | [Attach Event Hub Spark libraries to Azure Databricks (Spark) cluster](https://medium.com/@caiomsouza/attach-event-hub-spark-libraries-to-azure-databricks-spark-cluster-5b0e08325611) | 
 | [Processing Event Hubs Capture files (AVRO Format) using Spark (Azure Databricks), save to Parquet or CSV format](https://medium.com/@caiomsouza/processing-event-hubs-capture-files-avro-format-using-spark-azure-databricks-save-to-parquet-95259001d85f) | 
-| [Getting tweets with keyword “Bolsonaro” and sending them to the Event Hub in real-time using Azure Databricks (Spark)
-](https://medium.com/@caiomsouza/getting-tweets-with-keyword-bolsonaro-and-sending-them-to-the-event-hub-in-realtime-using-azure-9129d68a4cca) | 
+| [Getting tweets with keyword “Bolsonaro” and sending them to the Event Hub in real-time using Azure Databricks (Spark)](https://medium.com/@caiomsouza/getting-tweets-with-keyword-bolsonaro-and-sending-them-to-the-event-hub-in-realtime-using-azure-9129d68a4cca) | 
 | [Predicting using Azure Databricks (Spark), SparkR and RandomForest](https://medium.com/@caiomsouza/predicting-using-azure-databricks-spark-sparkr-and-randomforest-674d771a83dd) | 
 | [Consuming real-time sensor data using Azure Event Hub and Azure Databricks (Spark)](https://medium.com/@caiomsouza/consuming-real-time-sensor-data-using-azure-event-hub-and-azure-databricks-spark-91b5469083a) | 
 | [IoT Smart House Demo: Send real-time sensor data to Event Hub move to Data Lake Store and explore using Databricks](https://medium.com/@caiomsouza/send-real-time-sensor-data-to-azure-event-hub-and-azure-data-lake-storage-556e0d6d485d) | 
