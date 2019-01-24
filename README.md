@@ -11,6 +11,13 @@ This repo is dedicated to Microsoft Azure Databricks sample codes.
 # Sample Code from Microsoft
 https://notebooks.azure.com/caiomsouza/libraries/Azure-MachineLearningNotebooks/tree/databricks
 
+# Databricks Articles
+| Article Name | URL |
+| ------------- |:-------------:|
+| Creating a Spark Temp Table using Spark SQL | [Creating a Spark Temp Table using Spark SQL](https://medium.com/@caiomsouza/creating-a-spark-table-using-spark-sql-9f045ec19ea2) | 
+
+
+
 # The power of Azure Databricks
 
 I started in the Big Data World some years ago using pure Apache Software, then Hortonworks and Cloudera. In the last years I really enjoyed to work with HDFS, MapReduce I and II, Storm, Pig, Hive, Cloudera Impala, Spark, etc. 
