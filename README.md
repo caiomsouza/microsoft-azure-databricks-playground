@@ -12,9 +12,9 @@ This repo is dedicated to Microsoft Azure Databricks sample codes.
 https://notebooks.azure.com/caiomsouza/libraries/Azure-MachineLearningNotebooks/tree/databricks
 
 # Databricks Articles
-| Article Name | URL |
-| ------------- |:-------------:|
-| Creating a Spark Temp Table using Spark SQL | [Creating a Spark Temp Table using Spark SQL](https://medium.com/@caiomsouza/creating-a-spark-table-using-spark-sql-9f045ec19ea2) | 
+| Article Name |
+| ------------- |
+| [Creating a Spark Temp Table using Spark SQL](https://medium.com/@caiomsouza/creating-a-spark-table-using-spark-sql-9f045ec19ea2) | 
 
 
 
