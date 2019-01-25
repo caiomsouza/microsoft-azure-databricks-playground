@@ -17,6 +17,7 @@ https://notebooks.azure.com/caiomsouza/libraries/Azure-MachineLearningNotebooks/
 # Databricks Articles
 | Article Name and Link |
 | ------------- |
+| [Azure Databricks Videos](https://medium.com/@caiomsouza/azure-databricks-videos-e5dc06bb3334) | 
 | [How to start an Azure Databricks Cluster](https://medium.com/@caiomsouza/start-an-azure-databricks-cluster-bc69f2ff7661) | 
 | [How to connect Azure Data Lake Store with Azure Databricks](https://medium.com/@caiomsouza/connect-azure-data-lake-store-with-azure-databricks-52f5fe73a29d) | 
 | [How to connect Azure Databricks with Azure Blob Storage](https://medium.com/@caiomsouza/how-to-connect-azure-databricks-with-azure-blob-storage-1b3307620524) | 
