@@ -25,6 +25,6 @@ Azure Blob Storage - How to Upload Files <BR>
 <BR>
 
 Azure Databricks - How to start a sandbox cluster <BR>
-[![Azure Databricks - How to start a sandbox cluster](https://img.youtube.com/vi/bhSDrJm_7-8/0.jpg)](https://www.youtube.com/embed/bhSDrJm_7-8 "Azure Databricks - How to start a sandbox cluster")
+[![Azure Databricks - How to start a sandbox cluster](https://img.youtube.com/vi/K4hA0YuVK7A/0.jpg)](https://www.youtube.com/embed/K4hA0YuVK7A "Azure Databricks - How to start a sandbox cluster")
 <BR>
-  
+ 
