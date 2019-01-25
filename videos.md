@@ -20,6 +20,10 @@ Delete Azure Databricks Instance <BR>
 [![Delete Azure Databricks Instance](https://img.youtube.com/vi/E-PAp0VmFO8/0.jpg)](https://www.youtube.com/embed/E-PAp0VmFO8 "Delete Azure Databricks Instance")
 <BR>
 
+Consuming real-time sensor data using Azure EventHub and Azure Databricks (Spark) <BR>
+[![Consuming real-time sensor data using Azure EventHub and Azure Databricks (Spark)](https://img.youtube.com/vi/BRKXD7RWbx8/0.jpg)](https://www.youtube.com/embed/BRKXD7RWbx8 "Consuming real-time sensor data using Azure EventHub and Azure Databricks (Spark)")
+<BR>
+
 
 
 # Azure Blob Storage Video
