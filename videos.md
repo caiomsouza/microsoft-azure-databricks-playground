@@ -27,4 +27,12 @@ Azure Blob Storage - How to Upload Files <BR>
 Azure Databricks - How to start a sandbox cluster <BR>
 [![Azure Databricks - How to start a sandbox cluster](https://img.youtube.com/vi/K4hA0YuVK7A/0.jpg)](https://www.youtube.com/embed/K4hA0YuVK7A "Azure Databricks - How to start a sandbox cluster")
 <BR>
- 
+
+Azure Databricks - How to Create a Python Notebook <BR>
+[![Azure Databricks - How to Create a Python Notebook](https://img.youtube.com/vi/WnAR73PmC4Q/0.jpg)](https://www.youtube.com/embed/WnAR73PmC4Q "Azure Databricks - How to Create a Python Notebook")
+<BR>
+  
+Azure Databricks - How to open your Workspace <BR>
+[![Azure Databricks - How to open your Workspace](https://img.youtube.com/vi/xWSJ04ESzmc/0.jpg)](https://www.youtube.com/embed/xWSJ04ESzmc "Azure Databricks - How to open your Workspace")
+<BR>  
+
