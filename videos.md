@@ -16,3 +16,6 @@ Azure Blob Storage - How to Create a Blob Storage <BR>
 [![Azure Blob Storage - How to Create a Blob Storage](https://img.youtube.com/vi/O-NzaWoprUQ/0.jpg)](https://www.youtube.com/embed/O-NzaWoprUQ "Azure Blob Storage - How to Create a Blob Storage")
 <BR>
 
+Azure Blob Storage - How to Upload Files <BR>
+[![Azure Blob Storage - How to Upload Files](https://img.youtube.com/vi/bhSDrJm_7-8/0.jpg)](https://www.youtube.com/embed/bhSDrJm_7-8 "Azure Blob Storage - How to Upload Files")
+<BR>
