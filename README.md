@@ -8,6 +8,9 @@ https://databricks.com/intro-to-machine-learning-for-developers-on-azure-databri
 
 This repo is dedicated to Microsoft Azure Databricks sample codes.
 
+# Azure Databricks Vidoes
+https://github.com/caiomsouza/microsoft-azure-databricks-playground/blob/master/videos.md
+
 # Sample Code from Microsoft
 https://notebooks.azure.com/caiomsouza/libraries/Azure-MachineLearningNotebooks/tree/databricks
 
