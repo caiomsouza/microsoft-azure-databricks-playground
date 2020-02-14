@@ -29,6 +29,7 @@ https://notebooks.azure.com/caiomsouza/libraries/Azure-MachineLearningNotebooks/
 | [Consuming real-time sensor data using Azure Event Hub and Azure Databricks (Spark)](https://medium.com/@caiomsouza/consuming-real-time-sensor-data-using-azure-event-hub-and-azure-databricks-spark-91b5469083a) | 
 | [IoT Smart House Demo: Send real-time sensor data to Event Hub move to Data Lake Store and explore using Databricks](https://medium.com/@caiomsouza/send-real-time-sensor-data-to-azure-event-hub-and-azure-data-lake-storage-556e0d6d485d) | 
 | [Read a CSV File from Azure Data Lake Store with Azure Databricks](https://medium.com/@caiomsouza/read-a-csv-file-from-azure-data-laka-store-with-azure-databricks-2da425088fca) | 
+| [This notebook reads a CDM folder, applies transformations to some of the entities and then writes out all entities including the modified ones to a new CDM folder](https://github.com/Azure-Samples/cdm-azure-data-services-integration/blob/master/AzureDatabricks/Samples/read-write-demo-wide-world-importers.py) | 
 
 
 # The power of Azure Databricks
